@@ -1,0 +1,120 @@
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\BookStore - Fuentes.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\BookStore - Fuentes.pdb
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\Antlr3.Runtime.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\AspNet.ScriptManager.jQuery.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.AspNet.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.Core.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\EntityFramework.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.Web.Infrastructure.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\System.Web.Optimization.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\System.Web.Providers.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\WebGrease.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\EntityFramework.xml
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.Core.xml
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.xml
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.xml
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.AspNet.xml
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\obj\Debug\BookStore - Fuentes.csprojResolveAssemblyReference.cache
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\obj\Debug\BookStore - Fuentes.dll
+D:\Yan2x\Database\Finals\BookStore - Fuentes\BookStore - Fuentes\obj\Debug\BookStore - Fuentes.pdb
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\BookStore - Fuentes.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\BookStore - Fuentes.pdb
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\Antlr3.Runtime.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.Core.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\EntityFramework.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\System.Web.Optimization.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\System.Web.Providers.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\WebGrease.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\EntityFramework.xml
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.Core.xml
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\obj\Debug\BookStore - Fuentes.csprojResolveAssemblyReference.cache
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\obj\Debug\BookStore - Fuentes.dll
+C:\Users\xx210\Downloads\BookStore - Fuentes (2)\BookStore - Fuentes\BookStore - Fuentes\obj\Debug\BookStore - Fuentes.pdb
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\obj\Debug\BookStore - Fuentes.csprojResolveAssemblyReference.cache
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\obj\Debug\BookStore - Fuentes.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\obj\Debug\BookStore - Fuentes.pdb
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\BookStore - Fuentes.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\BookStore - Fuentes.pdb
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\Antlr3.Runtime.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\AspNet.ScriptManager.jQuery.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.AspNet.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.Core.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.Consumer.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\EntityFramework.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.ScriptManager.MSAjax.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.ScriptManager.WebForms.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.Web.Infrastructure.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\System.Web.Optimization.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\System.Web.Providers.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\WebGrease.dll
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\EntityFramework.xml
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.Core.xml
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.xml
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.Consumer.xml
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.xml
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+Z:\XX210\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\BookStore - Fuentes.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\BookStore - Fuentes.pdb
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\System.Web.Providers.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\WebGrease.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\obj\Debug\BookStore - Fuentes.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\obj\Debug\BookStore - Fuentes.dll
+C:\Users\Admin\Downloads\BookStore - Fuentes (Final)\BookStore - Fuentes\BookStore - Fuentes\obj\Debug\BookStore - Fuentes.pdb

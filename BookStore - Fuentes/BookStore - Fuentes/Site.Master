@@ -1,0 +1,146 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="BookStore___Fuentes.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head id="Head1" runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %> - My ASP.NET Application</title>
+    <asp:PlaceHolder ID="PlaceHolder1" runat="server">     
+          <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>  
+    <webopt:BundleReference ID="BundleReference1" runat="server" Path="~/Content/css" /> 
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+</head>
+<body>
+
+   <style>
+    #body {
+        background-color: #ffffff;
+        margin: 0;
+        padding: 0;
+        font-family: 'Roboto', sans-serif;
+        line-height: 1.6;
+        color: #333;
+    }
+
+    header {
+        background-color: #348494;
+    /*    background-image: url(https://trumpwallpapers.com/wp-content/uploads/Book-Wallpaper-26-2202-x-1487.jpg);*/
+    background-image: url('https://images.alphacoders.com/132/thumbbig-1326370.webp');
+        color: #white;
+        padding: 20px 0;
+        text-align: left;
+        height: 100px;
+        font-size: 15px;
+        display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 25vh; /* Adjust the header's height */
+            padding: 0;
+        
+    }
+
+    header a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+    nav ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    nav ul li {
+        display: inline;
+        margin-right: 20px;
+        padding: 10px;
+        color: black;
+        border-bottom-color: black;
+        background-color: white;
+    }
+
+
+     body {
+        background-color: #f2f2f2;
+        margin: 0;
+        padding: 0;
+        font-family: 'Roboto', sans-serif;
+        line-height: 1.6;
+        color: #333;
+    }
+                 .site-title {
+            font-size: 60px;
+            color: black;
+            background-color: rgba(210, 180, 140, 0.5);
+            padding: 20px;
+            margin: 0 auto;
+            display: inline-block;
+            border-radius: 10px;
+            text-align: center;
+            width: 60%;
+
+        }
+            .menu {
+               border-color: black;
+            }
+       .content-wrapper main-content clear-fix {
+       background-color: white;
+       }
+
+       .site-title {
+       background-color: rgba(210, 180, 140, 0.3);
+    color: black;
+    font-size: 70px; /* Change the font size as needed */
+    text-align: center; /* Center-align the text */
+    padding: 20px; /* Example padding */
+    margin: 0; /* Remove default margins */
+       }
+</style>
+
+    <form id="Form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+        <Scripts>
+            <%--Framework Scripts--%>
+            <asp:ScriptReference Name="MsAjaxBundle" />
+            <asp:ScriptReference Name="jquery" />
+            <asp:ScriptReference Name="jquery.ui.combined" />
+            <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+            <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+            <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+            <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+            <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+            <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+            <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+            <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+            <asp:ScriptReference Name="WebFormsBundle" />
+            <%--Site Scripts--%>
+
+        </Scripts>
+    </asp:ScriptManager>
+    <header>
+
+     <h1 class="site-title">"Books of Sophia"</h1>
+            <div class="float-right">
+            <div class="float-right">
+                <section id="login">
+                </section>
+                <nav>
+                    <ul id="menu">
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div id="body">
+        <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
+        <section class="content-wrapper main-content clear-fix">
+            <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+        </section>
+    </div>
+    </form>
+</body>
+</html>
